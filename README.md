@@ -3,7 +3,7 @@
 
 
 <h2>Project Description</h2>
-At my organization, access to restricted content is controlled with an allow list of IP addresses. The <b><i>"allow_list.txt"</i></b> file identifies these IP addresses. A separate remove list identifies IP addresses that shoould no longer have access to this content. I created an algorith, to automate updating the <b><i>"allow_list.txt"</i></b> file and remove these IP addresses that should no longer have access.
+At my organization, access to restricted content is controlled with an allow list of IP addresses. The <b><i>"allow_list.txt"</i></b> file identifies these IP addresses. A separate remove list identifies IP addresses that shoould no longer have access to this content. I created an algorithm, to automate updating the <b><i>"allow_list.txt"</i></b> file and remove these IP addresses that should no longer have access.
 <br />
 
 
