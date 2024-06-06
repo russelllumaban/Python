@@ -17,6 +17,7 @@ At my organization, access to restricted content is controlled with an allow lis
 <p align="center">
 <b>Open the File that Contains the Allow List</b> <br/>
 For the first part of the algorithm, I opened the <b><i>"allow_list.txt"</i></b> file. First, I assigned this file name as a string to the <b><i>import_file</i></b> variable:
+<br />
 <img src="https://imgur.com/EDbdyby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
